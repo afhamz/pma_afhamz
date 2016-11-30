@@ -1,0 +1,7 @@
+PMA Themes by afhamz
+Released on 2016-11-30
+Compatible with phpMyAdmin 4.6.x
+
+Screenshot http://fb.com/afh4mz/posts/10202481327551730
+
+Based on PMA Metro Themes v2.5 by hplhu
